@@ -1,0 +1,102 @@
+* {
+	margin:0px;
+	padding:0px;
+}
+
+
+.hd{ 
+	width: 100%;
+	height:80px;
+	border-bottom:solid 3px red; 
+
+ }
+ .hd>img{ 
+	margin-left: 400px;
+	margin-top: -12px;
+	float:left;
+
+
+ }
+
+ .hd>#deng{ 
+ 	/*border: solid 1px green;*/
+	font-size: 23px;
+	font-weight:500; 
+	margin-top: 10px;
+	float:left;
+
+	
+	/*padding-bottom:100px;*/
+}
+
+.hd>span{ 
+ 	/*border: solid 1px green;*/
+	font-size: 23px;
+	font-weight:100; 
+	margin-top: 10px;
+	margin-right: 20px;
+	float:left;
+
+	
+	/*padding-bottom:100px;*/
+}
+
+
+.zhu{
+	width: 100%;
+	height: 735px;
+	/*border: solid 1px green;*/
+	/*position: relative;*/
+	/*display: inline-block;*/
+	/*float:left;*/
+}
+.zhu>img{
+	margin:120px 200px 280px 500px;
+	float:left;
+	/*display: inline-block;*/
+}
+.zhu>form{
+	width: 350px;
+	height:325px;
+	/*margin:0px;*/
+	margin-top:120px;
+	margin-left:-200px;
+	background-color: #DDDDDD;
+	float: left;
+}
+.shuru{
+	
+	margin-left:35px;
+	margin-top: 10px;
+	/*border: solid 1px green;*/
+	line-height: 50px;
+
+
+}
+.tishi{
+	
+	font-size: 10px;
+	/*line-height: 10px;*/
+	text-align: center;
+
+
+}
+#shuru{
+	
+	/*margin-left:35px;*/
+	margin: 15px  30px 30px 35px;
+	line-height: 40px;
+	background-color: #BB0000;
+	font-size: 23px;
+	letter-spacing: 10px;
+	/*text-decoration-color:white;*/
+	border-radius: 8px;
+
+}
+
+.bott{ 
+	width: 100%;
+	height:100px;
+	background-color: gray;
+	/*text-align:center;*/
+}

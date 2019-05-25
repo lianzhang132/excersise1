@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>quanxuan</title>
+    <script>
+        window.onload = function () {
+            document.getElementById("xuan").onclick=function () {
+              hobbs = document.getElementsByClassName("hobby")
+                for (var i =0;i<hobbs.length;i++){
+                    hobbs[i].checked = "checked";
+                }
+
+            };
+            document.getElementById("buxu").onclick=function () {
+                for (var i =0;i<hobbs.length;i++){
+                    hobbs[i].checked = false;
+                }
+
+            };
+            };
+
+
+    </script>
+</head>
+<body>
+<input type="checkbox" class="hobby">打球
+<input type="checkbox" class="hobby">唱歌
+<input type="checkbox" class="hobby">跳舞
+<input type="checkbox" class="hobby">游戏
+<input type="checkbox" class="hobby">跑步
+<button id="xuan">全选</button>
+<button id="buxu">全不选</button>
+</body>
+</html>

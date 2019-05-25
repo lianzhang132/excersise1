@@ -1,0 +1,13 @@
+import time
+print(time.time())
+chuo = time.gmtime()
+print(chuo)
+print(chuo[2])
+loca = time.localtime()
+print(loca)
+print(loca[2])
+print(time.mktime(loca))
+print(time.asctime(loca))
+print(time.ctime())
+print(time.strftime("%Y^%m^%d %H:%M:%S",chuo))
+print(time.strptime("2018-12-23 10:10:10","%Y-%m-%d %H:%M:%S"))

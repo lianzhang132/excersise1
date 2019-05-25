@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>shi</title>
+    <script>
+		window.onload = function () {
+			var i = 1;
+			var time1 =setInterval(function(){
+				 var pics =document.getElementsByClassName('tupian')
+				 if (i % 3 ==1) {
+				 	document.write(pics[0])
+				 	document.write(0)
+				 }
+				 if(i % 3 ==2){
+				 	document.write(pics[1])
+				 	document.write(1)
+
+				 }
+				 if(i % 3 ==0){
+				 	document.write(pics[2])
+				 	document.write(2)
+
+				 }
+				 i++
+				 while (i==4){
+				 	return i =1
+				 }
+
+
+
+
+
+			},1000)
+
+
+
+		 }
+
+
+
+	</script>
+</head>
+<body>
+<!--<img src="1.png" alt="">-->
+                <img class="tupian" src="E:\练习\js\0516\images\banner1.jpg" alt="加载中">
+				<img class="tupian" src="E:\练习\js\0516\images\banner2.jpg" alt="加载中">
+				<img class="tupian" src="E:\练习\js\0516\images\banner3.jpg" alt="加载中">
+
+</body>
+</html>

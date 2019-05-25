@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Document</title>
+	<script>
+		function show(){
+			document.body.bgColor="pink";
+			var img=document.createElement('img');   
+			img.setAttribute('src','shunv.jpg');
+			img.width = 40
+			img.height = 40
+	
+			var x=GetRandom(0,document.documentElement.scrollWidth - img.width);
+			var y=GetRandom(0,document.documentElement.scrollHeight - img.height);
+
+			img.setAttribute("style","position:absolute;left:"+x+"px;top:"+y+"px;")
+	
+			document.body.appendChild(img);
+			
+		}
+
+		function GetRandom(min,max){
+			return Math.floor((Math.random()*(max-min)+min+1));
+		}
+
+		window.onload=function(){
+			document.getElementById('button1').onclick= function(){
+						show()
+				
+				}
+			}
+			for(var i=0;i<100;i++){
+					for(var i=0;i<100;i++){
+					show()
+
+			
+		}
+		
+	</script>
+</head>
+<body>
+	<button id='button1' style='position: relative;z-index: 1'>点击</button>
+</body>
+</html>

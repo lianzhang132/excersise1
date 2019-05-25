@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>显示计数</title>
+	<link rel="stylesheet" href="yan.css">
+
+</head>
+<body>
+	<form action="#">
+		<input type="text" id="wen" placeholder="用户名"><input type="text" id="tishi1"><br>
+		<input type="password" id="ps" placeholder="密码"><input type="text" id="tishi2"><br>
+		<input type="password" id="reps" placeholder="确认密码"><input type="text" id="tishi3"><br>
+		<input type="text" id="email" placeholder="邮箱"><input type="text" id="tishi4"><br>
+		<input type="button" value="提交" onclick="">
+		
+
+
+		<script>
+
+		document.onkeyup=function(){
+			var reg = /\w+@[0-9a-z]+(?:\.com|\.cn){1,2}/
+
+			
+				if(document.getElementById('wen').value.length<6){
+					document.getElementById('tishi1').value= "用户名不能低于6个字符" 
+				}
+				if(document.getElementById('wen').value.length>6){
+					document.getElementById('tishi1').value= "正确" 
+				}
+				if(document.getElementById('ps').value.length<6){
+					document.getElementById('tishi2').value= "密码太简单了" 
+				}
+				if(document.getElementById('ps').value.length>6){
+					document.getElementById('tishi2').value= "密码正常" 
+				}
+				if(document.getElementById('ps').value != document.getElementById('reps').value){
+					document.getElementById('tishi3').value= "密码不一致" 
+				}
+				if(document.getElementById('ps').value == document.getElementById('reps').value){
+					document.getElementById('tishi3').value= "密码合适" 
+				}
+				if(!reg.test(document.getElementById('email').value)){
+					document.getElementById('tishi4').value= "邮箱有误" 
+				}
+				if(reg.test(document.getElementById('email').value)){
+					document.getElementById('tishi4').value= "邮箱正确" 
+				}
+			
+		}
+
+
+		</script>
+
+
+	</form>
+	
+</body>
+</html>

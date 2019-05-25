@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>距天数</title>
+	<script>
+		
+		function daydelt(){
+			time3 = document.getElementById("num1").value
+			var daten = new Date();
+			var daten1 = new Date(time3);
+			time1 = daten.getTime()
+			time2 = daten1.getTime()
+
+			 ti = time2-time1
+			dayde = (ti/86400000)
+			alert("当前距输入时间有"+dayde+"天")
+		}
+		
+
+
+
+
+	</script>
+</head>
+<body>
+	<input type="text" id='num1' >
+	<input type="button" value="计算" onclick='daydelt()'>
+
+	
+</body>
+</html>

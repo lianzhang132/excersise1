@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta  charset="UTF-8">
+	<title>倒计时</title>
+	<script>
+		window.onload = function(){
+			var dao1 = setInterval(function(){
+			var daten = new Date();
+		var daten1 = new Date("2020/5/1");
+		time1 = daten.getTime()
+		time2 = daten1.getTime()
+
+		 ti = time2-time1
+		dayde = Math.floor(ti/86400000)
+		hour = Math.floor((ti%86400000)/3600000)
+		min = Math.floor(((ti%86400000)%3600000)/60000)
+		sec = Math.floor((((ti%86400000)%3600000)%60000)/1000)
+		
+		document.getElementById('dao11').value = ("还剩"+dayde+"天"+hour+"小时"+min+"分"+sec+"秒")
+		},100)
+		}
+	</script>
+</head>
+<body>
+	<input type="text" id="dao11">
+
+	
+	
+</body>
+</html>

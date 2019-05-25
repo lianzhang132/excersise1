@@ -1,0 +1,742 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="34885911-ec7d-48b0-add4-e17932a00133" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/Administrator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/练习.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/mv.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html/CSS练习.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html/lian.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html/lianxi.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html/yao.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html/伪类选择器.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html/光标练习.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html/列表属性.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html/可见文字等属性.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html/定位练习.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html/导航布局作业.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html/文本文字属性.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html/浮动练习.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html/盒子练习.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html/网站作业.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html/背景图片引用.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html/表格属性.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html/超链接练习.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html/透明属性.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/QQ图片20190415204333.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/xmn.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/ye.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/美女.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/0516/1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/0516/2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/0516/images/ad.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/0516/images/banner1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/0516/images/banner2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/0516/images/banner3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/0516/images/btn-bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/0516/images/btn-red.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/0516/images/girl.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/0516/images/gouche.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/0516/images/iphone.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/0516/images/login.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/0516/images/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/0516/images/pics.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/0516/images/pics2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/0516/images/qrcode.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/0516/images/reg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/0516/images/search.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/0516/images/yzm.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/0516/jain.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/0516/log.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/0516/reg.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/0516/shiyan.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/0516/xmn.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/0516/zhu.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/0516/zhu.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/0516/易购网.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/0516/注册.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/0516/网站效果图.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/bom 对象/wind.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/dom/1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/dom/2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/dom/3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/dom/4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/dom/6.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/dom/7.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/dom/shunv.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/dom/xmn.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/jinzi.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/jisuanqi.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/jsshijian0521/倒计时.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/jsshijian0521/打印格式日期.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/jsshijian0521/距天数.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/jsshijian0521/随机点名.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/js事件/js事件.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/js事件/no.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/js事件/tan.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/js事件/yan.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/js事件/实时显示.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/js事件/文档高度.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/js事件/移动块.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/js事件/表单验证.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/js对象/jsob.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/qiuhe.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/xun.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/事件.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab/1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab/StuAdmini.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab/abc.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab/abc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab/face.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab/feiji/Bullet.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab/feiji/Enemy.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab/feiji/Plane.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab/feiji/game1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab/feiji/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab/feiji/resources/font/font.fnt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab/feiji/resources/font/font.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab/feiji/resources/image/background.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab/feiji/resources/image/gameover.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab/feiji/resources/image/shoot.pack" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab/feiji/resources/image/shoot.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab/feiji/resources/image/shoot_background.pack" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab/feiji/resources/image/shoot_background.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab/game1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab/haarcascade_eye.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab/haarcascade_frontalface_default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab/img/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab/img/10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab/img/11.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab/img/12.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab/img/13.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab/img/14.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab/img/2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab/img/3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab/img/4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab/img/5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab/img/6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab/img/7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab/img/8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab/img/9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab/resources/font/font.fnt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab/resources/font/font.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab/resources/image/background.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab/resources/image/gameover.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab/resources/image/shoot.pack" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab/resources/image/shoot.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab/resources/image/shoot_background.pack" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab/resources/image/shoot_background.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab/stu.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab/stu_admini.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab/test2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/.idea/dictionaries/Administrator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/.idea/python.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/0412自练/canshuchaundi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/0412自练/duofanhuihanshu.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/0412自练/hanshu2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/0412自练/hanshu3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/0412自练/qustion.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/0412自练/函数.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/0412自练/匿名函数.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/0412自练/参数收集.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/0412自练/变量.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/0412自练/素数.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/0412自练/统计数字.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/0412自练/阶乘尾部零.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/0412自练/高级函数.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/0412自练/高阶函数.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/0415作业/五角星.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/0415作业/公鸡.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/0415作业/和尚.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/0415作业/回数2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/0415作业/测验.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/0415作业/试试.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/0415作业/金字塔.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/0416作业/乘法表.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/0416作业/回数作业.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/0416作业/求和.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/0416作业/猜年龄函数.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/0416作业/过路口.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/0416作业/金字塔函数.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/0417作业/测试.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/0417作业/装饰器.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/0417作业/计数器.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/0417作业/高阶函数.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/0418/digui.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/0418/diguifibo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/0418/generator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/0418/yumi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/0418/瞎练.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/0419/hah" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/0419/heihei" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/0419/os模块.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/0419/seek、.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/0419/shutil.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/0419/test" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/0419/test.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/0419/文件操作.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/0422练习/modu.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/0422练习/pakage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/0422练习/soft/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/0422练习/soft/weixin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/0423/daltdate.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/0423/riqi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/0423/打印日期.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/0423/打渔.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/0423/时间模块.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/0423/验证.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/0424作业/1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/0424作业/2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/0424作业/3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/0424作业/we.bak" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/0424作业/we.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/0424作业/we.dir" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/0424作业/wej.bak" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/0424作业/wej.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/0424作业/wej.dir" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/0424作业/wejgfgt.bak" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/0424作业/wejgfgt.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/0424作业/wejgfgt.dir" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/0424作业/wenjian" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/0424作业/wenjian1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/0428作业/1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/0428作业/QQQ.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/0428作业/URL.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/0428作业/ip地址.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/0428作业/手机号.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/0428作业/正则.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/0428作业/汉字.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/0428作业/注册名.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/0428作业/身份证号.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/0428作业/邮箱.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/042900p/oop面向.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/042900p/txt1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/042900p/wangzhe.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/042900p/学生类.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/042900p/封装试验.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/042900p/联盟.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/042900p/计数.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/0505/2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/0505/3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/0505/4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/0505/作业判断.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/0505/面向对象高级特性.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/0506作业/元类.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/0506作业/回文数.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/0506作业/异常.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/0506作业/验证.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/0514/1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/0514/xmn.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/0520/1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/0520/luo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/date/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/date/打印日期.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/day 7/for.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/day 7/if循环.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/day 7/位运算符.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/day 7/函数.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/day 7/连江华/作业10.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/day 7/连江华/作业11.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/day 7/连江华/作业12.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/day 7/连江华/作业13.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/day 7/连江华/作业14.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/day 7/连江华/作业15.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/day 7/连江华/作业16.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/day 7/连江华/作业2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/day 7/连江华/作业3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/day 7/连江华/作业4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/day 7/连江华/作业5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/day 7/连江华/作业6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/day 7/连江华/作业7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/day 7/连江华/作业8.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/day 7/连江华/作业9.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/day 7/连江华/总结.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/day1/1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/day1/hello.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/day1/help.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/day1/函数.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/day1/变量.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/day1/换行.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/day1/数据类型.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/day1/格式输出.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/day1/输入、.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/day2/zifuchuan.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/day2/元组.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/day2/列表操作.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/day2/列表操作2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/day2/和字符串.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/day2/数字类型.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/day2/数据类型转换.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/day2/文档总结" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/day2/类型转换.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/day2/进制转换.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/day2/随机点名.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/day4/字典.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/day4/连江华day4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/day4/集合.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/day5/作业.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/day5/作业2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/day5/切片迭代.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/day5/运算符.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/day6/1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/day6/作业10.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/day6/作业11.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/day6/作业12.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/day6/作业13.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/day6/作业14.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/day6/作业15.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/day6/作业16.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/day6/作业2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/day6/作业3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/day6/作业4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/day6/作业5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/day6/作业6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/day6/作业7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/day6/作业8.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/day6/作业9.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/day6/双方都.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/day6/老师12.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/day6/老师15作业.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/day6/集合运算、.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/day6/验证.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/feiji/Bou.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/feiji/Ene.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/feiji/Mou.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/feiji/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/feiji/build/game/Analysis-00.toc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/feiji/build/game/EXE-00.toc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/feiji/build/game/PKG-00.pkg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/feiji/build/game/PKG-00.toc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/feiji/build/game/PYZ-00.pyz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/feiji/build/game/PYZ-00.toc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/feiji/build/game/base_library.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/feiji/build/game/game.exe.manifest" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/feiji/build/game/warn-game.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/feiji/build/game/xref-game.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/feiji/dist/game.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/feiji/game.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/feiji/game.spec" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/feiji/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/feiji/music.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/feiji/p.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/feiji/resources/font/font.fnt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/feiji/resources/font/font.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/feiji/resources/font/simhei.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/feiji/resources/font/simsunb.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/feiji/resources/image/background.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/feiji/resources/image/gameover.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/feiji/resources/image/shoot.pack" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/feiji/resources/image/shoot.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/feiji/resources/image/shoot_background.pack" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/feiji/resources/image/shoot_background.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/feiji/rukou.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/js/1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/plane/3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/plane/Bullet.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/plane/Enemy.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/plane/Hero.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/plane/game.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/plane/game1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/plane/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/plane/resources/font/font.fnt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/plane/resources/font/font.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/plane/resources/font/simsun.ttc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/plane/resources/image/background.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/plane/resources/image/gameover.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/plane/resources/image/shoot.pack" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/plane/resources/image/shoot.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/plane/resources/image/shoot_background.pack" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/plane/resources/image/shoot_background.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/rukou.spec" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/runoob自练/fuci.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/runoob自练/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/runoob自练/shijan.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/runoob自练/shu.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/runoob自练/判断天.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/runoob自练/基础测试小结.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/runoob自练/奖金.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/runoob自练/完全平方数.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/学员管理 ——面向/info" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/学员管理 ——面向/ma_mou.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/学员管理 ——面向/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/学员管理 ——面向/sco" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/学员管理 ——面向/sco.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/学员管理 ——面向/stu.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/连江华/stuguanli/addstu.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/连江华/stuguanli/find_s.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/连江华/stuguanli/info" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/连江华/stuguanli/lilisilu.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/连江华/stuguanli/lookstu.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/连江华/stuguanli/score.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/连江华/stuguanli/scorelist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/连江华/stuguanli/student.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/连江华/stuguanli/stumodule.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/连江华/stuguanli/yanzhrn.py" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/js/0516/shiyan.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="284">
+              <caret line="17" selection-start-line="17" selection-end-line="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/js/0516/jain.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="273">
+              <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/python/runoob自练/fuci.py" />
+        <option value="$PROJECT_DIR$/python/runoob自练/shu.py" />
+        <option value="$PROJECT_DIR$/python/runoob自练/zidian.py" />
+        <option value="$PROJECT_DIR$/python/runoob自练/基础测试小结.py" />
+        <option value="$PROJECT_DIR$/python/runoob自练/main.py" />
+        <option value="$PROJECT_DIR$/feiji/gamefei.py" />
+        <option value="$PROJECT_DIR$/feiji/game.py" />
+        <option value="$PROJECT_DIR$/feiji/Mou.py" />
+        <option value="$PROJECT_DIR$/feiji/main.py" />
+        <option value="$PROJECT_DIR$/js/dom/1.html" />
+        <option value="$PROJECT_DIR$/js/dom/2.html" />
+        <option value="$PROJECT_DIR$/js/dom/3.html" />
+        <option value="$PROJECT_DIR$/js/dom/4.html" />
+        <option value="$PROJECT_DIR$/js/0516/zhu.html" />
+        <option value="$PROJECT_DIR$/js/0516/jain.html" />
+        <option value="$PROJECT_DIR$/js/0516/shiyan.html" />
+      </list>
+    </option>
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="5" />
+    <option name="width" value="1936" />
+    <option name="height" value="1037" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="练习" type="b2602c69:ProjectViewProjectNode" />
+              <item name="练习" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="练习" type="b2602c69:ProjectViewProjectNode" />
+              <item name="练习" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="练习" type="b2602c69:ProjectViewProjectNode" />
+              <item name="练习" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
+              <item name="0516" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.jscs" value="true" />
+    <property name="node.js.path.for.package.jscs" value="project" />
+    <property name="node.js.selected.package.jscs" value="" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\练习\feiji" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JavaScript Debug.shiyan.html">
+    <configuration name="4.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/练习/js/dom/4.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="jain.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/练习/js/0516/jain.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="shiyan.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/练习/js/0516/shiyan.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="zhu.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/练习/js/0516/zhu.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="Mou" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="练习" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/feiji" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/feiji/Mou.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.shiyan.html" />
+        <item itemvalue="JavaScript Debug.jain.html" />
+        <item itemvalue="JavaScript Debug.zhu.html" />
+        <item itemvalue="JavaScript Debug.4.html" />
+        <item itemvalue="Python.Mou" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="34885911-ec7d-48b0-add4-e17932a00133" name="Default Changelist" comment="" />
+      <created>1557306359233</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1557306359233</updated>
+      <workItem from="1558689211821" duration="522000" />
+      <workItem from="1558690172797" duration="7723000" />
+      <workItem from="1558699263104" duration="1497000" />
+      <workItem from="1558701199974" duration="575000" />
+      <workItem from="1558746081908" duration="2609000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="12926000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="5" y="0" width="1936" height="1037" extended-state="1" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26332623" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3281768" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info active="true" anchor="bottom" id="Version Control" order="7" visible="true" weight="0.32964602" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.63646406" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" weight="0.32964602" />
+      <window_info anchor="bottom" id="Python Console" order="10" />
+      <window_info anchor="bottom" id="Docker" order="11" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="12" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info anchor="right" id="SciView" order="4" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ORDER">
+      <list>
+        <option value="0" />
+        <option value="2" />
+        <option value="3" />
+        <option value="1" />
+      </list>
+    </option>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/$.coverage" NAME="装饰器 Coverage Results" MODIFIED="1558689517991" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/0417作业" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/python/runoob自练/fuci.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="756">
+          <caret line="21" column="8" selection-start-line="21" selection-start-column="8" selection-end-line="21" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python/runoob自练/shu.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="504">
+          <caret line="14" column="20" selection-start-line="14" selection-start-column="20" selection-end-line="14" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python/runoob自练/基础测试小结.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="12" column="31" selection-start-line="12" selection-start-column="31" selection-end-line="12" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/feiji/resources/font/font.fnt" />
+    <entry file="file://$PROJECT_DIR$/python/runoob自练/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/feiji/Mou.py" />
+    <entry file="file://$PROJECT_DIR$/feiji/main.py" />
+    <entry file="file://$PROJECT_DIR$/js/0516/zhu.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="39">
+          <caret line="7" column="38" selection-start-line="7" selection-start-column="38" selection-end-line="7" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/dom/2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="507">
+          <caret line="13" column="35" lean-forward="true" selection-start-line="13" selection-start-column="35" selection-end-line="13" selection-end-column="35" />
+          <folding>
+            <element signature="n#p#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#button#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#button#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/dom/1.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="699">
+          <caret line="74" column="10" selection-start-line="49" selection-end-line="75" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python/0417作业/装饰器.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="468">
+          <caret line="12" column="14" lean-forward="true" selection-start-line="12" selection-start-column="14" selection-end-line="12" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/dom/3.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="702">
+          <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
+          <folding>
+            <element signature="n#style#0;n#table#0;n#form#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/dom/4.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="309">
+          <caret line="26" column="39" selection-start-line="26" selection-start-column="39" selection-end-line="27" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/0516/zhu.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/0516/2.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/0516/shiyan.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="284">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/0516/jain.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="273">
+          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

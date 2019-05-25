@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>print</title>
+	<script>
+		var daten = new Date();
+		ye = daten.getFullYear()
+		mo = daten.getMonth()
+		da = daten.getDate()
+		week = daten.getDay()
+		ho = daten.getHours()
+		mi = daten.getMinutes()
+		se = daten.getSeconds()
+		
+		switch(week){
+			case 0:
+				we = "日";
+				break;
+			case 1:
+				we = "一";
+				break;
+			case 2: 
+				we = "二" ;
+				break;
+			case 3:
+				we = "三";
+				break;
+			case 4:
+				we = "四";
+				break;
+			case 5:
+				we = "五";
+				break;
+			case 6:
+				we = "六";
+				break;
+			default:
+				document.write(250)
+
+
+
+		}
+
+
+		alert(ye+"年"+mo+"月"+da+"日"+"  "+"星期"+we+"  "+ho+"："+mi+":"+se)
+
+		
+
+
+	</script>
+</head>
+<body>
+	
+</body>
+</html>

@@ -1,0 +1,146 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>移动</title>
+
+</head>
+<body>
+	<div id="tes" style="background: green;width: 100px;height: 100px; position:absolute;top: 500px;left: 500px;"></div>
+
+
+		<script>
+
+		// document.onkeypress=function(){
+		// 	// alert(event.keyCode)
+		// 	switch(event.keyCode){
+		// 		case 119:
+		// 			document.getElementById('tes').style.top=(parseInt(document.getElementById('tes').style.top)-10)+"px";
+		// 			break;
+		// 		case 97:
+		// 			document.getElementById('tes').style.left=(parseInt(document.getElementById('tes').style.left)-10)+"px";
+		// 			break;
+		// 		case 100:
+		// 			document.getElementById('tes').style.left=(parseInt(document.getElementById('tes').style.left)+10)+"px";
+		// 					break;
+		// 		case 115:
+		// 			document.getElementById('tes').style.top=(parseInt(document.getElementById('tes').style.top)+10)+"px";
+		// 			break;
+		// 	}
+		function shang(){
+				console.log("1")
+				document.getElementById('tes').style.top=(parseInt(document.getElementById('tes').style.top)-(5))+"px";
+		}
+		function xia(){
+				console.log("1")
+				document.getElementById('tes').style.top=(parseInt(document.getElementById('tes').style.top)+(5))+"px";
+		}
+		function zuo(){
+				console.log("1")
+				document.getElementById('tes').style.left=(parseInt(document.getElementById('tes').style.left)-(5))+"px";
+		}
+		function you(){
+				console.log("1")
+				document.getElementById('tes').style.left=(parseInt(document.getElementById('tes').style.left)+(5))+"px";
+		}
+		// var shang = setInterval(function(){
+		// 	document.getElementById('tes').style.top=(parseInt(document.getElementById('tes').style.top)-(5))+"px";
+
+		// },100)
+		// var xia = setInterval(function(){
+		// 	document.getElementById('tes').style.top=(parseInt(document.getElementById('tes').style.top)+(5))+"px";
+
+		// },100)
+
+
+
+
+
+
+
+			var inte =  setInterval(function(){
+				// document.getElementById('tes').style.top=(parseInt(document.getElementById('tes').style.top)-5)+"px";
+				// document.getElementById('tes').style.left=(parseInt(document.getElementById('tes').style.left)-5)+"px";
+			if (parseInt(document.getElementById('tes').style.top)< 0) {
+				 
+							var xia = setInterval(function(){
+			document.getElementById('tes').style.top=(parseInt(document.getElementById('tes').style.top)+(5))+"px";
+
+		},100)
+						
+			}else{
+							var shang = setInterval(function(){
+			document.getElementById('tes').style.top=(parseInt(document.getElementById('tes').style.top)-(5))+"px";
+
+		},100)
+
+			}
+			if (parseInt(document.getElementById('tes').style.top)> 1000){
+				
+							var shang = setInterval(function(){
+			document.getElementById('tes').style.top=(parseInt(document.getElementById('tes').style.top)-(5))+"px";
+
+		},100)
+						
+			}else{
+							var xia = setInterval(function(){
+			document.getElementById('tes').style.top=(parseInt(document.getElementById('tes').style.top)+(5))+"px";
+
+		},100)
+			}
+			if (parseInt(document.getElementById('tes').style.left)< 0) {
+							var you = setInterval(function(){
+			document.getElementById('tes').style.left=(parseInt(document.getElementById('tes').style.left)+(5))+"px";
+
+		},100)
+						
+			}else{
+							var zuo = setInterval(function(){
+			document.getElementById('tes').style.left=(parseInt(document.getElementById('tes').style.left)-(5))+"px";
+
+		},100)
+
+			}
+			if (parseInt(document.getElementById('tes').style.left)> 1800) {
+							var zuo = setInterval(function(){
+			document.getElementById('tes').style.left=(parseInt(document.getElementById('tes').style.left)-(5))+"px";
+
+		},100)
+						
+			}else{
+							var you = setInterval(function(){
+			document.getElementById('tes').style.left=(parseInt(document.getElementById('tes').style.left)+(5))+"px";
+
+		},100)
+			}
+				
+
+
+				
+
+			},100)
+			
+			
+
+			
+
+
+			// alert (screen.height)
+			// alert (screen.width)
+
+			// 不能这样使用   
+			// setInterval(document.getElementById('tes').style.top=(parseInt(document.getElementById('tes').style.top)-10)+"px",1000)
+
+				
+				
+			
+		// <!-- <!-- }  -->
+
+
+		</script>
+
+
+	
+	
+</body>
+</html>

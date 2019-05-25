@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title></title>
+</head>
+<body>
+	<div id="tes" style="background: green;width: 100px;height: 100px; position:relative;top: 500px;left: 500px;"></div>
+	<script>
+		function shang(){
+				console.log("1")
+				document.getElementById('tes').style.top=(parseInt(document.getElementById('tes').style.top)-(5))+"px";
+		}
+		function xia(){
+				console.log("2")
+				document.getElementById('tes').style.top=(parseInt(document.getElementById('tes').style.top)+(5))+"px";
+		}
+		function zuo(){
+				console.log("3")
+				document.getElementById('tes').style.left=(parseInt(document.getElementById('tes').style.left)-(5))+"px";
+		}
+		function you(){
+				console.log("4")
+				document.getElementById('tes').style.left=(parseInt(document.getElementById('tes').style.left)+(5))+"px";
+		}
+
+
+
+		var inte =  setInterval(function(){
+				// document.getElementById('tes').style.top=(parseInt(document.getElementById('tes').style.top)-5)+"px";
+				// document.getElementById('tes').style.left=(parseInt(document.getElementById('tes').style.left)-5)+"px";
+				document.getElementById('tes').style.top=(parseInt(document.getElementById('tes').style.top)+(5))+"px";
+				document.getElementById('tes').style.left=(parseInt(document.getElementById('tes').style.left)+(5))+"px";
+				console.log(document.getElementById('tes').style.top)
+				console.log(document.getElementById('tes').style.left)
+			if (parseInt(document.getElementById('tes').style.top)= 0) {
+				 
+							xia()
+
+		}
+			if (parseInt(document.getElementById('tes').style.top)= 880){
+				 
+							shang()
+
+		}
+			if (parseInt(document.getElementById('tes').style.left)= 0){
+				 
+							you()
+
+		}
+			if (parseInt(document.getElementById('tes').style.left)= 1800) {
+				 
+							zuo()
+
+		}
+	
+			},50)
+			
+
+
+
+
+
+
+
+
+	</script>
+
+
+
+
+	
+</body>
+</html>

@@ -1,0 +1,10 @@
+import os
+# open("hah","w")
+# # os.remove("hah")
+# os.rename("hah","heihei")
+# os.mkdir("mei")
+# os.rmdir("mei")
+os.chdir("E:\练习\python")
+print(os.getcwd())
+print(os.listdir())
+print(os.walk("python"))

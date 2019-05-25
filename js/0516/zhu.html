@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>主页</title>
+	<link rel="stylesheet" type="text/css" href="zhu.css">
+	<script>
+		window.onload = function () { 
+			var i = 1
+			var time1 = setIntval(function(){
+				 var pics =document.getElementByClassName('tupian')
+				 if (i % 3 ==1) {
+				 	document.write(pics[0])
+				 }else if(i % 3 ==2){
+				 	document.write(pics[1])
+
+				 }else if(i % 3 ==0){
+				 	document.write(pics[2])
+
+				 }
+				 i++
+				 while (i==4){
+				 	return i =1
+				 }
+
+
+
+				
+
+			},1000)
+
+
+
+		 }
+
+
+
+	</script>
+</head>
+<body>
+	<div class="daohang">右侧导航</div>
+	<div class="buju">
+		
+		
+		<img src="E:\作业\0516\images\ad.jpg" alt="加载中">
+
+	</div>
+	
+	<div class="bod">
+		<div class="log">
+			<div id="deng">欢迎您，来到易购网 请<a href="#">登录</a>  <a href="#">免费注册</a></div>
+			<div id="xinxi">用户中心 我的订单 我的收藏 帮助中心 关注易购网</div>
+		</div>
+		<div class="bod1">
+			<img src="E:\作业\0516\images\logo.png" alt="加载中">
+			<div class="ser">
+				<!-- <img src="E:\作业\0516\images\search.jpg" alt="加载中"> -->
+
+				<input id="shuru" type="text" name="搜索"   value="请输入商品关键字"/>
+				<input id="tijiao" type="submit" value="搜索">
+				<div id="tish">平板电脑 | 平板电脑 | 平板电脑 | 平板电脑 | 平板电脑 | 平板电脑 | 平板电脑 | 平板电脑 |</div>
+				<span id="shop"> <img id="mg" src="E:\作业\0516\images\gouche.png" alt="加载中"> 我的购物车 <span id="shopn">0</span></span>
+				<img src="E:\作业\0516\images\qrcode.jpg" alt="加载中">
+			</div>
+
+			
+
+		</div>
+		<div class="fenlei">
+			<div id="quanlei">全部商品分类</div>
+			<div id="shouye">首页</div>
+			<div id="maidao">热卖区域</div>
+			<div id="maidao">积分商城</div>
+			<div id="maidao">品牌专卖</div>
+			<div id="maidao">限时秒杀</div>
+
+		</div>
+		<div class="tuwen">
+			<div class="youtu">
+				<img class="tupian" src="E:\作业\0516\images\banner1.jpg" alt="加载中">
+				<img class="tupian" src="E:\作业\0516\images\banner2.jpg" alt="加载中">
+				<img class="tupian" src="E:\作业\0516\images\banner3.jpg" alt="加载中">
+
+
+			</div>
+			<div class ="leftwen">
+				<span> &nbsp;&nbsp;&nbsp;<span class="shouji">手机</span><br>&nbsp;&nbsp;&nbsp;华为mate9 iphone7s note5</span><br><br><br>
+				<span> &nbsp;&nbsp;&nbsp;<span class="shouji">手机</span><br>&nbsp;&nbsp;&nbsp;华为mate9 iphone7s note5</span><br><br><br>
+				<span> &nbsp;&nbsp;&nbsp;<span class="shouji">手机</span><br>&nbsp;&nbsp;&nbsp;华为mate9 iphone7s note5</span><br><br><br>
+				<span> &nbsp;&nbsp;&nbsp;<span class="shouji">手机</span><br>&nbsp;&nbsp;&nbsp;华为mate9 iphone7s note5</span><br><br><br>
+				<span> &nbsp;&nbsp;&nbsp;<span class="shouji">手机</span><br>&nbsp;&nbsp;&nbsp;华为mate9 iphone7s note5</span><br><br><br>
+				<span> &nbsp;&nbsp;&nbsp;<span class="shouji">手机</span><br>&nbsp;&nbsp;&nbsp;华为mate9 iphone7s note5</span>
+
+			</div>
+			<div id="daohangshu">
+				<img class="shu" src="E:\作业\0516\images\btn-red.gif" alt="00" value="3">
+				<img class="shu" src="E:\作业\0516\images\btn-red.gif" alt="00">
+				<img class="shu" src="E:\作业\0516\images\btn-red.gif" alt="00">
+
+
+			</div>
+			<div class="ff">1F热卖专区</div>
+			<div class="show">
+				<img src="E:\作业\0516\images\girl.jpg" alt="加载中">
+				<div class="price">
+					<img src="E:\作业\0516\images\iphone.jpg" alt="加载中">
+					<span>iphone7 + 128g<br><span style="color: red;font-size:10px;font-weight:700;">￥6666</span></span>
+
+
+
+				</div>
+
+
+			</div>
+			
+
+
+
+
+
+
+		</div>
+
+
+
+	</div>
+
+	
+</body>
+</html>
